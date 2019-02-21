@@ -2,11 +2,12 @@ package com.zoonref.viewbehavior;
 
 import android.graphics.Color;
 import android.graphics.drawable.ColorDrawable;
-import android.support.design.widget.CoordinatorLayout;
-
-import static junit.framework.Assert.*;
 
 import org.junit.Test;
+
+import androidx.coordinatorlayout.widget.CoordinatorLayout;
+
+import static junit.framework.Assert.assertEquals;
 
 /**
  * Created by zoonooz on 5/1/2018 AD.

@@ -1,7 +1,6 @@
 package com.zoonref.viewbehavior;
 
 import android.app.Activity;
-import android.support.design.widget.CoordinatorLayout;
 import android.view.View;
 
 import com.zoonref.viewbehavior.view.TestPercentageChildView;
@@ -10,6 +9,8 @@ import org.junit.Before;
 import org.junit.runner.RunWith;
 import org.robolectric.Robolectric;
 import org.robolectric.RobolectricTestRunner;
+
+import androidx.coordinatorlayout.widget.CoordinatorLayout;
 
 /**
  * Created by zoonooz on 15/1/2018 AD.

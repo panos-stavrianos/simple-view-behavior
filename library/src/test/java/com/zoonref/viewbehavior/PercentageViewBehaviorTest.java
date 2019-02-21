@@ -1,8 +1,8 @@
 package com.zoonref.viewbehavior;
 
-import android.support.design.widget.CoordinatorLayout;
-
 import org.junit.Test;
+
+import androidx.coordinatorlayout.widget.CoordinatorLayout;
 
 import static junit.framework.Assert.assertEquals;
 

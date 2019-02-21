@@ -2,13 +2,14 @@ package com.zoonref.viewbehavior;
 
 import android.content.Context;
 import android.content.res.TypedArray;
-import android.support.annotation.AnimRes;
-import android.support.design.widget.CoordinatorLayout;
 import android.util.AttributeSet;
 import android.view.View;
 import android.view.animation.Animation;
 import android.view.animation.AnimationUtils;
 import android.view.animation.Transformation;
+
+import androidx.annotation.AnimRes;
+import androidx.coordinatorlayout.widget.CoordinatorLayout;
 
 /**
  * Created by zoonooz on 5/1/2018 AD.

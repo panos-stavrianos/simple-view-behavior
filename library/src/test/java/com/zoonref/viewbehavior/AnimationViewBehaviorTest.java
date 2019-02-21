@@ -1,15 +1,16 @@
 package com.zoonref.viewbehavior;
 
-import android.support.design.widget.CoordinatorLayout;
 import android.view.animation.ScaleAnimation;
 
 import com.zoonref.viewbehavior.shadow.ShadowAnimation;
 
-import static junit.framework.Assert.*;
-
 import org.junit.Test;
 import org.robolectric.annotation.Config;
 import org.robolectric.shadow.api.Shadow;
+
+import androidx.coordinatorlayout.widget.CoordinatorLayout;
+
+import static junit.framework.Assert.assertEquals;
 
 /**
  * Created by zoonooz on 6/1/2018 AD.
